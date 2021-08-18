@@ -1,14 +1,14 @@
 ---
 title: Libraries, AI, and the policy and regulatory environment
 author: R package build
-date: '2021-08-17'
+date: '2021-08-18'
 slug: libraries-ai-and-the-policy-and-regulatory-environment
 categories: []
 tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-08-17T18:52:41+10:00'
+lastmod: '2021-08-18T18:52:41+10:00'
 featured: no
 image:
   caption: ''
